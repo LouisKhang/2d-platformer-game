@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/Menu.unity
+    guid: a50ae4aaddd696a49b2a4a7f8537513e
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/LevelSelection.unity
+    guid: 2364e05cbb41f4d40909ee748ad9123d
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/Demo 1.unity
+    guid: 2f51f17a69175544c920ae9acea9c353
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/Map2.unity
+    guid: cef406fdcf02fdc4dbfd61f029512d3d
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/Map3.unity
+    guid: 3b3c82d7ccda4824588164d5a1f33a95
+  m_configObjects: {}

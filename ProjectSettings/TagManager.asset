@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chain
+  - Ladder
+  - CheckPoint
+  - OneWayPlatform
+  - Enemy
+  - Door
+  - Coin
+  - Key
+  - Heart_Pickup
+  - Wall
+  - Ground
+  - BreakableBlock
+  - BombItem
+  - MagicBolt
+  - EvilWizard
+  - FirePoint
+  - FxTemporaire
+  - Boat
+  - WaterZone
+  - Trap
+  - EnemyBoat
+  - EnemyBoatHitCollider
+  - BoatCollider
+  - EnemyBomb
+  - Seleketon
+  - DeathPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Bomb
+  - Player
+  - Enemy
+  - BreakableBlock
+  - MagicBolt
+  - Wizard_Area
+  - Enemy_NonSolid
+  - Minautour
+  - flyingeye
+  - medusa
+  - TrapProjectile
+  - Trap
+  - Boat
+  - EnemyBoat
+  - EnemyBomb
+  - Seleketon
+  - Goblin
+  - Ghost
+  - Decor
+  - ThunderBall
+  - SkullWolf
+  - DemonBoss
+  - Arrow_Trap
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
