@@ -5,6 +5,8 @@
 
 Game download link (Google Drive):
 https://drive.google.com/file/d/1Jn4B68cbZlN4xSgLjuGGLSsO6FS3iIrQ/view?usp=sharing
+Link youtube:
+https://www.youtube.com/watch?v=QpA3G1JkXac
 ### How to Play
 
 1. Download the game file
